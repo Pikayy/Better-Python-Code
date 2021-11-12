@@ -1,6 +1,6 @@
 # Better-Python-Code
 ####  Best practices that improve your code by making your code much cleaner and more Pythonic. Idea comes from https://www.youtube.com/watch?v=8OKTAedgFYg&t=184s&ab_channel=PythonEngineer
-
+#### 11 tricks to make your code more pythonic
 1) Iterate with enumerate() instead of range(len())
 2) Use list comprehension instead of raw for-loops
 3) Sort complex iterables with the built-in sorted() method
