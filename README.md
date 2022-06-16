@@ -14,3 +14,4 @@
 9) Concatenate Strings with .join()
 10) Merge dictionaries with the double asterisk syntax ** (Python 3.5+)
 11) Simplify if-statements with if x in list instead of checking each item separately
+ttt
